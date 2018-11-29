@@ -1,0 +1,4 @@
+﻿  Source.c
+d:\okul c\homework\factorialfunction_digitfunction_returntomain\factorialfunction_digitfunction_returntomain\source.c(16): warning C4013: 'system' undefined; assuming extern returning int
+d:\okul c\homework\factorialfunction_digitfunction_returntomain\factorialfunction_digitfunction_returntomain\source.c(29): warning C4028: formal parameter 1 different from declaration
+  factorialFunction_digitFunction_returnToMain.vcxproj -> D:\OKUL C\homework\factorialFunction_digitFunction_returnToMain\Debug\factorialFunction_digitFunction_returnToMain.exe
